@@ -6,4 +6,4 @@
 
 感兴趣的加好友私聊
 
-![](.\picture.jpg)
+![picture](./picture.jpg)
